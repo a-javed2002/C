@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "OPERATORS.C": "cpp",
+        "MAIN2.C": "cpp",
+        "MAIN.C": "cpp",
+        "cstdlib": "c",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "_mingw_print_push.h": "c",
+        "QUESTION8.C": "cpp",
+        "QUESTION9.C": "cpp",
+        "QUESTION9b.C": "cpp",
+        "QUESTION9a.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}

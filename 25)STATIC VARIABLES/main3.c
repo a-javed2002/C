@@ -1,0 +1,14 @@
+//IF LOCAL VARIABLE IS SAME AS GLOBAL THEN...WE CAN OVER WRITE GLOBAL VARIABLE
+//LOCAL VARIABLE PRIORITY GETS HIGHER...
+#include <stdio.h>
+int b = 40;
+int main()
+{
+    printf("THE VALUE OF GLOBAL VARIABLE b IS %d\n", b);
+    printf("THE ADDRESS OF GLOBAL VARIABLE b IS %d\n", &b);
+    int b = 20;
+    printf("THE VALUE OF LOCAL VARIABLE b IS %d\n", b);
+    printf("THE ADDRESS OF GLOBAL VARIABLE b IS %d\n", &b);
+    return 0;
+}
+//DIFFERENT ADDRESSES OF SAME NAME LOCAL AND GLOBAL VARIABLES....

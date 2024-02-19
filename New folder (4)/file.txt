@@ -1,0 +1,19 @@
+Date/Time:Fri Dec 17 22:20:51 2021
+
+Customer Name:BDULLAH JAVED
+			Plates		3
+			êwòÂâ		2006557168
+Total Bill before Discount: 4200638 RS
+Discounts availed: 0 RS
+Total Bill after Discounts: 4200638 RS
+
+Date/Time:Fri Dec 17 22:21:36 2021
+
+Customer Name:ARRY
+			Glass		1
+			Banana		1
+			¸Áa		92
+Total Bill before Discount: 4200218 RS
+Discounts availed: 0 RS
+Total Bill after Discounts: 4200218 RS
+
